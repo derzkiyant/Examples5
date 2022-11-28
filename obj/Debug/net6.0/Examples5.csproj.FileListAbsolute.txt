@@ -1,0 +1,15 @@
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\bin\Debug\net6.0\Examples5.exe
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\bin\Debug\net6.0\Examples5.deps.json
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\bin\Debug\net6.0\Examples5.runtimeconfig.json
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\bin\Debug\net6.0\Examples5.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\bin\Debug\net6.0\Examples5.pdb
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\Examples5.csproj.AssemblyReference.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\Examples5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\Examples5.AssemblyInfoInputs.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\Examples5.AssemblyInfo.cs
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\Examples5.csproj.CoreCompileInputs.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\Examples5.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\refint\Examples5.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\Examples5.pdb
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\Examples5.genruntimeconfig.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 5. Функции и одномерные массивы\Examples5\obj\Debug\net6.0\ref\Examples5.dll
